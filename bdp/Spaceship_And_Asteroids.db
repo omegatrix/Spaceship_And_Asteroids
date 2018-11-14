@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<db_xml>
+    <atelierb version="3_7_ubuntu-cvs" />
+    <project decomp_dir="C:\Users\User\Desktop\software engineering\Final Year\Reasoning\workplace\Spaceship_And_Asteroids\bdp\expand_src" old_decomp_dir="C:\Users\User\Desktop\software engineering\Final Year\Reasoning\workplace\Spaceship_And_Asteroids\bdp\src">
+        <!-- Definition directory list -->
+        <!-- Component file list -->
+        <component_file path="C:/Users/User/Desktop/software engineering/Final Year/Reasoning/workplace/Spaceship_And_Asteroids" name="Space" suffix="mch" user="User">
+            <component name="Space" type="specification" />
+        </component_file>
+        <component_file path="C:/Users/User/Desktop/software engineering/Final Year/Reasoning/workplace/Spaceship_And_Asteroids" name="Spaceship" suffix="mch" user="User">
+            <component name="Spaceship" type="specification" />
+        </component_file>
+        <component_file path="C:/Users/User/Desktop/software engineering/Final Year/Reasoning/workplace/Spaceship_And_Asteroids" name="Spaceship_And_Asteroids" suffix="mch" user="User">
+            <component name="Spaceship_And_Asteroids" type="specification" />
+        </component_file>
+    </project>
+</db_xml>
